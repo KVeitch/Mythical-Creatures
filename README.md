@@ -1,3 +1,5 @@
+Exercises 01hobbit - 12ogre complete at least once 7/17/2019
+
 # Mythical Creatures
 
 ## Installation Steps
