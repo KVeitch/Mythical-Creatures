@@ -1,7 +1,14 @@
 Exercises 01hobbit - 12ogre complete at least once 7/17/2019
 
+The original README.md was as follows:
+
+<details>
+  <sumary>
+    
 # Mythical Creatures
 
+  </summary>
+  
 ## Installation Steps
 
 Before you can work on or run any of these tests, you need to make sure you install the dependencies. The directions are at the [root-level of this repository](https://github.com/turingschool-examples/javascript-foundations).
@@ -58,3 +65,4 @@ If you've done the creatures above and feel comfortable with those, try conqueri
 
 Notice, some of the syntax with the tests and files are using newer javascript features introduced in es6, like arrow functions, block-scoped variables, and classes.  See if you can start flexing your es6 muscles and write your solutions and tests using the new syntax!  
 
+</details>
