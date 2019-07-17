@@ -3,10 +3,8 @@ Exercises 01hobbit - 12ogre complete at least once 7/17/2019
 The original README.md was as follows:
 
 <details> 
-  <summary> 
-    
+  <summary>     
 # Mythical Creatures
-
   </summary>
   
 ## Installation Steps
