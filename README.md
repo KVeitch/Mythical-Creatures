@@ -1,4 +1,4 @@
-Exercises 01hobbit - 13Sphinx complete at least once 7/17/2019
+Exercises 01hobbit - 13Sphinx complete at least once 7/21/2019
 
 
 
