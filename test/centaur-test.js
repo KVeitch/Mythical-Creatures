@@ -1,5 +1,5 @@
 var assert = require('chai').assert;
-var Centaur = require('../exercises/centaur');
+var Centaur = require('../exercises/09-centaur');
 
 describe('Centaur', function() {
 
